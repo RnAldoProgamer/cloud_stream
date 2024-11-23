@@ -1,0 +1,8 @@
+{
+    "name": "Stormunblessed providers repository",
+    "description": "Storm Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://web.archive.org/web/20230524140022/https://raw.githubusercontent.com/Stormunblessed/storm-ext/builds/plugins.json"
+    ]
+}
